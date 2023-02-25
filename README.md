@@ -108,3 +108,5 @@ task_2:
 ## Contributing
 
 Contributions are welcome! Just submit a Pull Request or Github Issue.
+
+## Testing release-drafter.yml
